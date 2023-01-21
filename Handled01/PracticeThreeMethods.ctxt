@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PracticeThreeMethods
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=avg
+comment2.target=java.lang.String\ grade(int)
+comment3.params=a\ b\ c\ d
+comment3.target=int\ tester(int,\ int,\ int,\ int)
+numComments=4

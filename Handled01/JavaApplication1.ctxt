@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=JavaApplication1
+comment0.text=\r\n\r\n\ @author\ arda\ dinc\ \r\n
+comment1.params=num
+comment1.target=boolean\ checkIfPalandrome(int)
+comment2.params=number\ count
+comment2.target=void\ printResult(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

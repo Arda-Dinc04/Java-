@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RectangularPrism
+comment1.params=newColor\ newLength\ newWidth\ newHeight
+comment1.target=RectangularPrism(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getLength()
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=
+comment4.target=double\ getHeight()
+comment5.params=newLength
+comment5.target=void\ setLength(double)
+comment6.params=newWidth
+comment6.target=void\ setWidth(double)
+comment7.params=newHeight
+comment7.target=void\ setHeight(double)
+comment8.params=
+comment8.target=double\ getVolume()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

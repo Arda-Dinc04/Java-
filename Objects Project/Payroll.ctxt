@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Payroll
+comment1.params=
+comment1.target=Payroll()
+comment2.params=
+comment2.target=void\ currentWage()
+comment3.params=hours
+comment3.target=void\ addHours(int)
+comment4.params=
+comment4.target=double\ paycheck()
+numComments=5

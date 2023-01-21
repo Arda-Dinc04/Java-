@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Solid
+comment1.params=newColor
+comment1.target=Solid(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment3.params=newColor
+comment3.target=void\ setColor(java.lang.String)
+numComments=4
