@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ContactListManager
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=
+comment3.target=int\ getUserInput()
+comment3.text=\r\n\ getUserInput\ will\ ask\ the\ user\ to\ enter\ in\ a\ number\ between\ 1\ and\ 5.\ \ The\ method\ will\r\n\ continue\ to\ ask\ them\ for\ input\ until\ they\ successfully\ enter\ in\ a\ valid\ number.\r\n\ \r\n\ Once\ a\ valid\ integer\ has\ been\ entered,\ getUserInput\ will\ return\ that\ value.\r\n\ \r\n\ @return\ a\ user-entered\ value\ in\ the\ range\ [1,\ 5].\r\n
+comment4.params=
+comment4.target=void\ displayAllContacts()
+comment4.text=\r\n\ Using\ a\ for-each\ loop,\ this\ method\ will\ display\ all\ of\ the\ contacts\ to\ the\ screen,\r\n\ one\ blank\ line\ in-between\ each\ Contact.\r\n
+comment5.params=
+comment5.target=void\ searchContacts()
+comment5.text=\r\n\ searchContacts\ will\ ask\ the\ user\ what\ they\ are\ looking\ for,\ then\ display\ every\ contact\r\n\ which\ matches\ that\ search\ String.\ \ The\ output\ will\ display\ the\ whole\ contact\ information,\r\n\ not\ just\ the\ part\ that\ matched.\r\n\ \r\n\ The\ search\ will\ look\ for\ a\ match\ in\ the\ name,\ phone\ number\ and/or\ email.\ \ Case\ doesn't\ matter.\ \ \r\n\ \r\n\ The\ method\ will\ report\ "No\ matches\ found.",\ if\ the\ search\ was\ fruitless.\r\n
+comment6.params=
+comment6.target=void\ addContact()
+comment6.text=\r\n\ addContact\ asks\ the\ user\ for\ a\ name,\ a\ phone\ number,\ and\ an\ email.\r\n\ \r\n\ Once\ all\ three\ pieces\ of\ information\ have\ been\ gathered,\ then\ create\ a\ Contact\ and\r\n\ add\ it\ to\ the\ list.\r\n
+comment7.params=
+comment7.target=void\ deleteContacts()
+comment7.text=\r\n\ Ask\ the\ user\ to\ enter\ in\ who\ you\ want\ to\ delete.\ \ This\ method,\ like\ searchContacts,\ will\ \r\n\ match\ name,\ phone\ number,\ and/or\ email.\r\n\ \r\n\ When\ a\ match\ is\ found,\ the\ contact\ is\ displayed\ and\ then\ the\ method\ will\ ask\ for\ \ \r\n\ confirmation\ whether\ they\ really\ want\ to\ delete\ it.\ \ If\ they\ confirm\ "yes"\ (capitalized\ \r\n\ any\ way),\ then\ delete\ the\ contact\ off\ of\ the\ ArrayList.\r\n\ \r\n\ Keep\ going\ until\ you\ have\ gone\ through\ all\ of\ the\ matches,\ asking\ at\ each\ match\ whether\r\n\ they\ really\ want\ it\ deleted.\r\n\ \r\n\ The\ method\ will\ report\ "No\ matches\ found.",\ if\ the\ search\ was\ fruitless.\r\n
+numComments=8

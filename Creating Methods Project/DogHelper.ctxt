@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DogHelper
+comment0.text=\r\n\ A\ class\ to\ help\ with\ the\ Dog\ class\ exercises\r\n\r\n\ @author\ Derek\ Carlson\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ getRandomName()
+comment1.text=\r\n\ The\ getRandomName\ method\ returns\ a\ name\ randomly\ selected\ from\ a\ list\ of\ 20.\r\n\ These\ names\ happen\ to\ be\ the\ top\ 10\ male\ and\ top\ 10\ female\ dog\ names\ of\ 2017.\r\n\ \r\n\ @return\ A\ String\ randomly\ selected\ from\ a\ list\ of\ 20\ possible\ names.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRandomColor()
+comment2.text=\r\n\ The\ getRandomColor\ method\ returns\ a\ color\ randomly\ selected\ from\ a\ list\ of\ 6.\r\n\ \r\n\ @return\ A\ String\ randomly\ selected\ from\ a\ list\ of\ 6\ possible\ colors.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRandomBreed()
+comment3.text=\r\n\ The\ getRandomBreed\ method\ returns\ a\ breed\ randomly\ selected\ from\ a\ list\ of\ 30.\r\n\ These\ happen\ to\ be\ the\ top\ 30\ most\ popular\ dog\ breeds\ (in\ order)\ in\ the\ U.S.\ \r\n\ in\ 2018,\ according\ to\ the\ AKC.\r\n\ \r\n\ @return\ A\ String\ randomly\ selected\ from\ a\ list\ of\ 30\ possible\ breeds.\r\n
+numComments=4

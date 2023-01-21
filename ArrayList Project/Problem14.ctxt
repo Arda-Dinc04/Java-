@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Problem14
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name
+comment2.target=java.lang.String\ findName(java.lang.String)
+comment2.text=\r\n\ The\ findName\ method\ searches\ for\ name\ inside\ of\ names,\ and\ reports\r\n\ whether\ or\ not\ it\ was\ found.\r\n\ \r\n\ @param\ \ name\ \ A\ String\ holding\ the\ name\ to\ search\ for.\r\n\ \r\n\ @return\ "Found\ <name>\ at\ index\ <num>."\ where\ <name>\ is\ the\ parameter\ and\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ <num>\ is\ the\ first\ index\ where\ it\ was\ located.;\r\n\ \ \ \ \ \ \ \ \ Otherwise\ return\ "<name>\ not\ found."\ where\ <name>\ is\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ parameter.\r\n
+numComments=3

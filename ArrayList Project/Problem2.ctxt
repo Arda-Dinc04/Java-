@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Problem2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=times
+comment2.target=void\ loadUpRegularArray(int)
+comment3.params=times
+comment3.target=void\ loadUpArrayList(int)
+numComments=4

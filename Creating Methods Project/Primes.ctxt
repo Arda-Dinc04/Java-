@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Primes
+comment1.params=num
+comment1.target=boolean\ isItPrime(int)
+comment1.text=\r\n\ isItPrime\ takes\ the\ parameter\ and\ determines\ if\ it\ is\ prime\ or\ not.\r\n\ Precondition\:\ \ num\ >\=\ 2\r\n\ \r\n\ @param\ \ num\ \ the\ number\ to\ check\ whether\ or\ not\ it\ is\ prime\r\n\ @return\ \ true,\ if\ num\ is\ prime;\ \r\n\ \ \ \ \ \ \ \ \ \ false,\ otherwise\r\n
+comment2.params=limit
+comment2.target=int\ sumPrimes(int)
+comment2.text=\r\n\ sumPrimes\ will\ find\ the\ sum\ of\ all\ the\ prime\ numbers\ from\ 2\r\n\ all\ the\ way\ up\ to\ limit.\r\n\ Precondition\:\ \ 2\ <\=\ limit\ <\=\ 250,000\r\n\ \r\n\ @param\ \ limit\ \ the\ largest\ number\ to\ check\ to\ see\ if\ it\ is\ prime\ and\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ should\ be\ added\ to\ the\ sum\r\n\ @return\ \ the\ sum\ of\ all\ primes\ in\ the\ range\ [2,\ limit]\r\n
+numComments=3

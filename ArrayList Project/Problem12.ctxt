@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Problem12
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=java.util.ArrayList\ multiplesOf5Only(int[])
+comment2.text=\r\n\ multiplesOf5Only\ takes\ an\ incoming\ int\ array\ and\ returns\ an\r\n\ ArrayList<Integer>\ with\ only\ the\ multiples\ of\ 5\ from\ the\ input\ on\r\n\ the\ list.\r\n\ \r\n\ @param\ \ input\ \ An\ int[],\ possibly\ filled\ with\ values.\r\n\ \r\n\ @return\ null\ if\ input\ is\ null;\r\n\ \ \ \ \ \ \ \ \ otherwise\ an\ ArrayList<Integer>\ filled\ with\ all\ multiples\ of\r\n\ \ \ \ \ \ \ \ \ 5\ from\ input\r\n
+numComments=3

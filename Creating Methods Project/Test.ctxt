@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y
+comment2.target=int\ funct(int,\ int)
+comment3.params=y\ x
+comment3.target=double\ funct(double,\ int)
+numComments=4

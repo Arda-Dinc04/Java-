@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Problem16
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sortedList\ num
+comment2.target=void\ addScore(java.util.ArrayList,\ java.lang.Integer)
+comment2.text=\r\n\ The\ addScore\ method\ is\ supposed\ to\ take\ num\ and\ insert\ it\ into\ sortedList\ so\ that\ sortedList\r\n\ remains\ sorted.\ \ \r\n\ \r\n\ Duplicate\ values\ okay.\r\n\ \r\n\ @param\ \ sortedList\ \ An\ ArrayList<Integer>\ sorted\ from\ low\ to\ high.\r\n\ @param\ \ num\ \ An\ Integer\ to\ be\ inserted\ into\ sortedList\r\n\ \r\n\ Precondition\:\ \ sortedList\ and\ num\ are\ both\ not\ null\r\n\ \r\n\ Postcondition\:\ \ sortedList\ remains\ sorted\ from\ low\ to\ high\ after\ num\ has\ been\ inserted.\r\n
+numComments=3
