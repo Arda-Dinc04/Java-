@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RandomWord
+comment0.text=\r\n\ Use\ random\ letter\ generator\ to\ \ generate\ a\ random\ word\ with\ a\ length\ between\ 1-13.\r\n\ Use\ that\ random\ word\ to\ create\ a\ random\ phrase\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ randomLetterGenerator()
+comment3.params=
+comment3.target=java.lang.String\ randomWordGenerator()
+comment4.params=howManyWords
+comment4.target=java.lang.String\ randomPhrase(int)
+numComments=5

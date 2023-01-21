@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cheerleading
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num
+comment2.target=void\ cheerIteratively(int)
+comment2.text=\r\n\ The\ cheerIteratively\ will\ repeat\ "Hip"\ a\ number\ of\ times\ equal\ to\ num,\ followed\ by\ a\ "Hooray\!".\r\n\ During\ the\ course\ of\ this\ method,\ no\ recursion\ is\ used.\r\n\ \r\n\ @param\ \ num\ \ The\ number\ of\ times\ to\ repeat\ the\ word\ "Hip"\ before\ we\ print\ out\ "Hooray\!".\r\n\ \r\n\ Precondition\:\ \ num\ >\=\ 1\r\n\ \r\n\ Postcondition\:\ \ The\ output\ is\ followed\ by\ a\ carriage\ return\ so\ that\ the\ cursor\ ends\ up\ on\ \r\n\ the\ line\ below\ the\ output\ on\ the\ screen.\r\n
+comment3.params=num
+comment3.target=void\ cheerRecursively(int)
+comment3.text=\r\n\ The\ cheerRecursively\ will\ repeat\ "Hip"\ a\ number\ of\ times\ equal\ to\ num,\ followed\ by\ a\ "Hooray\!".\r\n\ During\ the\ course\ of\ this\ method,\ recursion\ WILL\ be\ used.\r\n\ \r\n\ @param\ \ num\ \ The\ number\ of\ times\ to\ repeat\ the\ word\ "Hip"\ before\ we\ print\ out\ "Hooray\!".\r\n\ \r\n\ Precondition\:\ \ num\ >\=\ 1\r\n\ \r\n\ Postcondition\:\ \ The\ output\ is\ followed\ by\ a\ carriage\ return\ so\ that\ the\ cursor\ ends\ up\ on\ \r\n\ the\ line\ below\ the\ output\ on\ the\ screen.\r\n
+numComments=4

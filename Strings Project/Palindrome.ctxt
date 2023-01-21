@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Palindrome
+comment1.params=input
+comment1.target=boolean\ checkFirstAndLast(java.lang.String)
+comment1.text=\r\n\ The\ checkFirstAndLast\ method\ checks\ if\ the\ first\ letter\ and\ last\ letter\ of\ \r\n\ input\ are\ the\ same.\r\n\ \r\n\ @param\ \ input\ \ The\ text\ to\ parse.\r\n\ @return\ true,\ if\ both\ the\ first\ and\ last\ letter\ are\ the\ same;\r\n\ \ \ \ \ \ \ \ \ false,\ otherwise\r\n\ \ \ \ \ \ \ \ \ \r\n\ Precondition\:\ \ input\ is\ at\ least\ of\ length\ 2\r\n\ \r\n\ Precondition\:\ \ input\ is\ all\ lowercase\ (since\ reformatString\ takes\ care\ of\ it)\r\n
+comment2.params=input
+comment2.target=java.lang.String\ removeFirstAndLast(java.lang.String)
+comment2.text=\r\n\ The\ removeFirstAndLast\ method\ returns\ a\ String\ that\ looks\ like\ input\ after\ having\r\n\ the\ first\ and\ last\ letter\ removed.\r\n\ \r\n\ @param\ \ input\ \ The\ text\ to\ parse.\r\n\ @return\ a\ String\ with\ the\ first\ and\ last\ letters\ of\ input\ removed.\ \ If\ input\ is\r\n\ \ \ \ \ \ \ \ \ exactly\ of\ length\ 2,\ then\ it\ will\ return\ "".\r\n\ \ \ \ \ \ \ \ \ \r\n\ Precondition\:\ \ input\ is\ at\ least\ of\ length\ 2\r\n
+comment3.params=input
+comment3.target=boolean\ isPalindrome(java.lang.String)
+comment3.text=\r\n\ The\ isPalindrome\ method\ determines\ if\ input\ is\ a\ palindrome\ or\ not.\r\n\ \r\n\ @param\ \ input\ \ The\ text\ to\ parse.\r\n\ @return\ true,\ if\ input\ is\ a\ palindrome;\r\n\ \ \ \ \ \ \ \ \ false,\ otherwise\r\n\ \ \ \ \ \ \ \ \ \r\n\ Precondition\:\ \ input\ is\ at\ least\ of\ length\ 1.\r\n
+comment4.params=input
+comment4.target=java.lang.String\ reformatString(java.lang.String)
+comment4.text=\r\n\ The\ reformatString\ method\ takes\ input\ and\ returns\ a\ String\ which\ is\ like\ \r\n\ input\ with\ all\ of\ the\ punctuation\ and\ spaces\ removed.\ \ It\ also\ makes\ it\ lowercase.\r\n\ \r\n\ @param\ \ input\ \ The\ String\ to\ parse.\r\n\ @return\ A\ String\ where\ all\ of\ the\ punctuation\ and\ spaces\ of\ input\ have\ been\ removed.\r\n\ \ \ \ \ \ \ \ \ The\ returned\ String\ is\ also\ all\ lowercase.\r\n\ \ \ \ \ \ \ \ \ \r\n\ Note\:\ \ For\ the\ record,\ that\ regular\ expression\ I\ used\ up\ there\ basically\ says\ replace\ \r\n\ everything\ except\ lowercase\ letters\ and\ numbers\ with\ a\ blank\ String.\u0000\r\n
+numComments=5

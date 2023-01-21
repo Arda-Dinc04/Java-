@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MakeChange
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=amount\ index
+comment2.target=int\ makeChange(int,\ int)
+comment2.text=\r\n\ The\ makeChange\ method\ determines\ how\ many\ ways\ you\ can\ make\ change\ of\ amount\ cents\ given\ an\ unlimited\ supply\r\n\ of\ quarters,\ dimes,\ nickels,\ and\ pennies.\r\n\ \r\n\ @param\ \ amount\ \ An\ int\ holding\ the\ number\ of\ cents\ we\ are\ trying\ to\ make\ change\ for.\r\n\ @param\ \ index\ \ \ An\ int\ keeping\ track\ of\ where\ the\ code\ currently\ is\ in\ the\ denominations\ array.\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ \ The\ number\ of\ ways\ you\ can\ make\ change\ for\ amount\ cents.\r\n
+numComments=3

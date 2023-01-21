@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ fibonacciRecursively(int)
+comment2.text=\r\n\ The\ fibonnacciRecursively\ method\ returns\ the\ nth\ Fibonacci\ number.\r\n\ \r\n\ @param\ \ n\ \ The\ number\ of\ the\ Fibonacci\ number\ to\ find.\r\n\ \r\n\ @return\ \ \ \ The\ nth\ Fibonacci\ number.\r\n\ \r\n\ Precondition\:\ \ n\ >\=\ 1\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GoldenRatio
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=double\ goldenRatio(int)
+comment2.text=\r\n\ The\ goldenRatio\ method\ calculates\ the\ approximate\ value\ of\ the\ golden\ ratio\ for\ a\ given\ int\r\n\ named\ n\ which\ then\ gets\ plugged\ into\ the\ formula\:\r\n\ \r\n\ if\ n\ \=\ 0,\ then\ f(0)\ \=\ 1;\ otherwise\ f(n)\ \=\ 1\ +\ 1/f(n-1),\ for\ all\ n\ >\=\ 0;\r\n\ \r\n\ @param\ \ n\ \ The\ integer\ to\ plug\ into\ the\ formula.\r\n\ \r\n\ @return\ \ \ \ A\ double\ value\ which\ is\ the\ approximate\ value\ of\ the\ golden\ ratio\ for\ that\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ value\ of\ n.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ Precondition\:\ \ n\ >\=\ 0\r\n
+numComments=3

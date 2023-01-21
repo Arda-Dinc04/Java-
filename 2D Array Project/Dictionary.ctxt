@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dictionary
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=words
+comment2.target=java.util.ArrayList\ findZZZs(java.util.ArrayList)
+comment2.text=\r\n\ The\ findZZZs\ method\ will\ simply\ return\ all\ of\ the\ words\ in\ the\ dictionary\ which\ have\r\n\ three\ or\ more\ zs.\r\n\ \r\n\ @param\ \ words\ \ An\ ArrayList<String>\ to\ parse\ to\ see\ which\ ones\ have\ three\ or\ more\ zs.\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ null,\ if\ words\ is\ null;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ otherwise\ return\ an\ ArrayList<String>\ holding\ all\ words\ from\ the\ parameter\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ which\ have\ three\ or\ more\ zs.\r\n
+comment3.params=words
+comment3.target=java.util.ArrayList\ matchingHeadAndTail(java.util.ArrayList)
+comment3.text=\r\n\ The\ matchingHeadAndTail\ method\ will\ look\ through\ the\ parameter\ and\ return\ an\ ArrayList<String>\r\n\ which\ holds\ all\ of\ the\ words\ which\ are\ of\ length\ 6\ or\ more\ where\ the\ first\ three\ letters\ are\ the\r\n\ same\ as\ the\ last\ three\ letters.\r\n\ \r\n\ @param\ \ words\ \ The\ list\ to\ look\ through.\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ null,\ if\ words\ is\ null;\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ otherwise\ return\ an\ ArrayList<String>\ with\ all\ words\ from\ the\ parameter\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ which\ are\ 6\ or\ more\ letters\ long\ where\ the\ first\ three\ letters\ are\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ same\ as\ the\ last\ three\ letters.\r\n
+comment4.params=input\ rows\ cols
+comment4.target=java.lang.String[][]\ fillArray(java.util.ArrayList,\ int,\ int)
+comment4.text=\r\n\ The\ fillArray\ method\ creates\ a\ String[][]\ with\ the\ number\ of\ rows\ and\ columns\ specified\r\n\ in\ the\ rows\ and\ cols\ parameters.\ \ It\ then\ fills\ the\ output\ array\ with\ the\ values\r\n\ in\ input.\ \r\n\ \r\n\ It\ fills\ the\ output\ array\ in\ column-major\ order.\r\n\ \r\n\ If\ the\ output\ array\ is\ too\ small\ to\ hold\ all\ of\ the\ values\ on\ input,\ then\ as\ many\ values\r\n\ as\ fit\ will\ be\ put\ on\ the\ output\ array\ and\ the\ rest\ of\ them\ will\ be\ discarded.\r\n\ \r\n\ If\ the\ output\ array\ is\ too\ big\ to\ hold\ all\ of\ the\ values\ on\ input,\ then\ the\ empty\ spots\ will\r\n\ be\ filled\ with\ "XXXXX"\ instead.\r\n\ \r\n\ @param\ \ input\ \ An\ ArrayList<String>\ with\ values\ to\ put\ on\ the\ output\ array.\r\n\ @param\ \ rows\ \ \ The\ number\ of\ rows\ in\ the\ output\ array.\r\n\ @param\ \ cols\ \ \ The\ number\ of\ columns\ in\ the\ output\ array.\r\n\ \r\n\ @return\ \ \ \ \ \ \ \ null,\ if\ input\ is\ null,\ rows\ <\=\ 0,\ or\ cols\ <\=\ 0;\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ otherwise\ a\ String[][]\ filled\ with\ the\ values\ of\ input\ in\ row\ major\ order,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ with\ excess\ values\ discarded\ or\ empty\ spots\ filled\ with\ "XXXXX".\r\n
+comment5.params=array
+comment5.target=void\ printArrayNicely(java.lang.String[][])
+comment5.text=\r\n\ printArrayNicely\ will\ take\ the\ incoming\ String[][],\ and\ print\ it\r\n\ to\ the\ screen\ in\ a\ "nice"\ way,\ where\ each\ number\ is\ right-justified\r\n\ in\ such\ a\ way\ so\ that\ everything\ lines\ up\ nice\ and\ neat.\r\n\ \r\n\ If\ the\ incoming\ array\ is\ null,\ the\ method\ simply\ prints\ "null".\r\n\ \r\n\ @param\ \ array\ \ The\ array\ to\ print.\r\n
+numComments=6

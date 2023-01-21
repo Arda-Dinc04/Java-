@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DawkinsEvolution
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ generateRandomStartingString()
+comment2.text=\r\n\ The\ generateRandomStartingString\ generates\ a\ String\ of\ length\ 29\ comprised\ of\ random\ letters\ from\ chars.\r\n\ Duplicate\ letters\ are\ fine.\ \ \r\n
+numComments=3

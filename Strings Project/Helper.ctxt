@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Helper
+comment1.params=text
+comment1.target=boolean\ isAbecedarian(java.lang.String)
+comment1.text=\r\n\ The\ isAbcedarian\ method\ determines\ if\ the\ parameter\ counts\ as\ abcedarian\ or\ not.\ \ How\ the\ \r\n\ incoming\ text\ is\ capitalized\ does\ not\ matter.\r\n\ \r\n\ @param\ \ text\ \ The\ text\ parse\ to\ see\ if\ it\ is\ abcedarian.\r\n\ @return\ \ true,\ if\ the\ text\ conforms\ to\ being\ abcedarian;\r\n\ \ \ \ \ \ \ \ \ \ false,\ otherwise.\ \ A\ blank\ String,\ i.e.\ "",\ will\ also\ return\ false.\r\n\ \r\n\ Precondition\:\ \ text\ is\ only\ comprised\ of\ letters\ (no\ spaces,\ numbers,\ etc.)\r\n\ \r\n
+comment2.params=
+comment2.target=void\ testIsAbecedarianMethod()
+comment3.params=text
+comment3.target=void\ makeDiamond(java.lang.String)
+comment3.text=\r\n\ The\ makeDiamond\ method\ takes\ a\ given\ String\ and\ turns\ it\ into\ a\ lovely\ diamond.\r\n\ \r\n\ @param\ \ text\ \ The\ text\ to\ turn\ into\ a\ diamond.\r\n\ \r\n\ Precondition\:\ \ text\ is\ a\ positive\ even\ length.\r\n
+comment4.params=
+comment4.target=void\ testMakeDiamondMethod()
+numComments=5

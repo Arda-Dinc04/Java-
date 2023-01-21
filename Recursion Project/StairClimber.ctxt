@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StairClimber
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ countSteps(int)
+comment2.text=\r\n\ The\ countSteps\ method\ counts\ the\ number\ of\ different\ ways\ a\ child\ can\ run\ up\ a\ staircase\ of\ length\ n\ steps,\r\n\ assuming\ the\ child\ can\ successfully\ hop\ up\ 1,\ 2,\ or\ 3\ steps\ at\ a\ time\ on\ his/her\ way\ up\ to\ the\ top.\r\n\ \r\n\ @param\ \ n\ \ The\ number\ of\ steps\ in\ our\ virtual\ staircase.\r\n\ \r\n\ @return\ \ \ \ The\ number\ of\ ways\ the\ child\ can\ ascend\ a\ staircase\ of\ height\ n.\r\n\ \r\n\ Precondition\:\ \ n\ >\=\ 1\r\n
+numComments=3

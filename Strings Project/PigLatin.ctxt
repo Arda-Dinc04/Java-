@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PigLatin
+comment0.text=\r\n\ create\ only\ one\ word\r\n\ take\ the\ first\ lettter\ and\ add\ it\ to\ the\ end\ and\ add\ ay\ to\ it.\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=word
+comment2.target=java.lang.String\ pigLatin(java.lang.String)
+numComments=3

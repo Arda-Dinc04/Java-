@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComputeTemp
+comment1.params=row\ col
+comment1.target=double\ computeTemp(int,\ int)
+comment2.params=tolerance
+comment2.target=boolean\ updateAllTemps(double)
+numComments=3

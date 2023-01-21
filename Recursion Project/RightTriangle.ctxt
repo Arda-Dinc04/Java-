@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RightTriangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num
+comment2.target=java.lang.String\ triangle(int)
+comment2.text=\ \ The\ triangle\ method\ is\ supposed\ to\ take\ a\ number,\ and\ then\ print\ to\ the\ screen\ a\ right\r\n\ \ triangle\ with\ the\ first\ row\ equal\ to\ the\ number\ given,\ the\ next\ row\ equal\ to\ the\ \r\n\ \ number\ given\ -\ 1,\ and\ so\ on\ until\ the\ whole\ triangle\ has\ been\ printed\ to\ the\ screen.\r\n\ \ \r\n\ \ The\ implementation\ must\ use\ recursion.\r\n\ \ \r\n\ \ @param\ \ num\ \ The\ size\ of\ the\ triangle\ to\ print\ out.\r\n\ \ \r\n\ \ Precondition\:\ \ num\ >\=\ 1\r\n
+numComments=3
